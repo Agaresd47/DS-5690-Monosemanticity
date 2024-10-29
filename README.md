@@ -71,14 +71,21 @@ for each feature i in range(F):
 L = reconstruction_loss + feature_penalty
 
 # Critical Analysis: What should it do further?
-1. Propuse ways for unsupervised learning/manipulation.
-2. Extracting abstract feature
+1. More like a report
+2. Propuse ways for unsupervised learning/manipulation.
+3. Extracting abstract feature
 
-# Impacts: Superbe
+# Impacts: Superb
+![image](https://github.com/user-attachments/assets/4cd6a2f8-5b80-4e65-a2c8-b1f8eb5d1f1a)
+
 
 # Related work:
 Entropic Activation Steering, https://ar5iv.labs.arxiv.org/html/2406.00244
+
 Contrastive Activation Analysis, https://ar5iv.labs.arxiv.org/html/2406.00045
+
 SPARSE AUTOENCODERS, https://arxiv.org/pdf/2309.08600
+
 DISCOVERING LATENT KNOWLEDGE, https://arxiv.org/pdf/2212.03827
+
 Feature-Based Representations and Shapley Additive Explanations, https://arxiv.org/abs/2409.07132
