@@ -34,8 +34,8 @@ Author:  Adly Templeton, Tom Conerly, Anthropic
 ## Adding flavors
 ![image](https://github.com/user-attachments/assets/bec4bfaa-dd2f-4167-ba3a-6e8c2a17fdf7)
 
-##
-![image](https://github.com/user-attachments/assets/60f35939-577b-483d-b175-ad92edbbbbff)
+![image](https://github.com/user-attachments/assets/8002f8e5-793f-46c8-8d3b-16d9014cb9ce)
+
 
 
 
