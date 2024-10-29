@@ -25,6 +25,22 @@ Author:  Adly Templeton, Tom Conerly, Anthropic
 ## Different code activate different feature
 ![image](https://github.com/user-attachments/assets/15a45ef2-814c-4370-b064-0314271ab501)
 
+## Word Cloud
+![image](https://github.com/user-attachments/assets/0fa8a82a-c940-46eb-89eb-7999e3264082)
+
+## Interpreting Code
+![image](https://github.com/user-attachments/assets/8e5e5b3f-c0a7-46be-888f-1547e3342d66)
+
+## Adding flavors
+![image](https://github.com/user-attachments/assets/bec4bfaa-dd2f-4167-ba3a-6e8c2a17fdf7)
+
+##
+![image](https://github.com/user-attachments/assets/60f35939-577b-483d-b175-ad92edbbbbff)
+
+
+
+
+
 ## Sparse Autoencoder was applied on residual stream not studying MLP, why?
 
 ![image](https://github.com/user-attachments/assets/a50b1c26-c6ec-498a-a5ce-0ba4e3a88264)
